@@ -40,7 +40,7 @@ Antes de começar, verifique se você atendeu aos seguintes requisitos:
 * Você tem uma máquina `<Windows / Linux / Mac>`.
 * Você leu `<documentação_relacionada_ao_projeto>`.
 
-## 🚀 Instalando Central_ccleo
+## 🚀 Instalando Backend
 
 Para instalar o Central_ccleo, siga estas etapas:
 
